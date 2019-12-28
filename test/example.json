@@ -1,5 +1,8 @@
 {
-  "HOSTNAME":"example.com",
-  "PORT":"23",
-  "TIMEOUT":5
+  "TIMEOUT": 5,
+  "RDS_DATABASE": "databasename",
+  "RDS_HOSTNAME": "productionxxxxxx.xxxxxxx.ap-southeast-2.rds.amazonaws.com",
+  "RDS_PORT": "5432",
+  "RDS_USERNAME": "dbuser",
+  "RDS_PASSWORD":"xxxxxxx"
 }
