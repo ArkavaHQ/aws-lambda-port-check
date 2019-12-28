@@ -1,0 +1,26 @@
+{
+  "name": "aws-lambda-port-check",
+  "version": "1.0.0",
+  "description": "Lambda function to check specific tcp/ip port availability , and report on it",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/base2Services/aws-lambda-port-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/base2Services/aws-lambda-port-check/issues"
+  },
+  "homepage": "https://github.com/base2Services/aws-lambda-port-check#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-python-requirements": "^5.0.1"
+  }
+}

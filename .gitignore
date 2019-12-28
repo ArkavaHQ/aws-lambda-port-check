@@ -1,4 +1,6 @@
 # Distribution / packaging
+.idea/
+node_modules/
 .Python
 env/
 build/
